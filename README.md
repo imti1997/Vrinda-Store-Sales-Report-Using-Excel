@@ -5,7 +5,8 @@ OBJECTIVE:
 Owner of Vrinda Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
 This project involves following steps:
-Data collection, Data cleaning and wrangling, Pivot Tables, Pivot Charts, Interactive Dashboard Creation, Data Visualization  
+Data collection, Data cleaning and wrangling, Pivot Tables, Pivot Charts, Interactive Dashboard Creation, Data Visualization 
+
 INSIGHTS:
 •	March is the month with maximum amount of Order and Sales.
 •	Female customers out number the male customers and the store should have more 
