@@ -7,7 +7,6 @@ This project involves following steps:
 Data collection, Data cleaning and wrangling, Pivot Tables, Pivot Charts, Interactive Dashboard Creation, Data Visualization  
 INSIGHTS:
 •	March is the month with maximum amount of Order and Sales.
-•	In Electronic goods, Printer were the subcategory which have the highest profit.
 •	Female customers out number the male customers and the store should have more 
 Women oriented products and deals to generate more sales.
 •	Woman in the age group between 30 to 50 makes the greatest number of customers
