@@ -3,6 +3,7 @@ I have created a Interactive Dashboard Using Excel for Vrinda Store's Sales Anal
 
 OBJECTIVE:
 Owner of Vrinda Store wants us to help them create a dashboard to track and analyze their online sales across India.
+
 This project involves following steps:
 Data collection, Data cleaning and wrangling, Pivot Tables, Pivot Charts, Interactive Dashboard Creation, Data Visualization  
 INSIGHTS:
