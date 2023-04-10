@@ -13,7 +13,8 @@ INSIGHTS:
 Women oriented products and deals to generate more sales.
 •	Woman in the age group between 30 to 50 makes the greatest number of customers
 And should be targeted with personalised discounts to retain them. 
-•	The state Maharashtra, Karnataka, and U.P are having maximum purchases, it is important to focus on these states and provide some special offers, also focus on inventory to cope up the demand.
+•	The state Maharashtra, Karnataka, and U.P are having maximum purchases, it is important to focus on these states and provide some special offers, 
+  also focus on inventory to cope up the demand.
 •	Based on sales in each state, helped to determine the inventory size and hence maximize profit and good customer experience.
 
 PROJECT LEARNINGS:
