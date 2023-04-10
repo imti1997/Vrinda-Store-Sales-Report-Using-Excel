@@ -22,6 +22,6 @@ PROJECT LEARNINGS:
 •	Created Pivot Tables and Pivot Charts to get a better understating of the relation between the data
 •	Created interactive dashboard to track and analyze online sales data
 •	Used complex parameters to drill down in worksheet and customization using filter and slicers
-•	Used different types of customized visualizations (bar chart, donut chart, Pi chart, bar chart with secondary axis, slicers, etc.) 
+•	Used different types of customized visualizations (bar chart, donut chart, Pi chart, bar chart with secondary axis, slicers, etc.)
 
 
