@@ -1,5 +1,5 @@
 # Vrinda-Store-Sales-Report-Using-Excel
-I have created a Interactive Dashboard Using Excel for Vrinda Store's Sales Analysis 
+I have created a Interactive Dashboard Using Excel for Vrinda Store's Sales Analysis
 
 OBJECTIVE:
 Owner of Vrinda Store wants us to help them create a dashboard to track and analyze their online sales across India.
